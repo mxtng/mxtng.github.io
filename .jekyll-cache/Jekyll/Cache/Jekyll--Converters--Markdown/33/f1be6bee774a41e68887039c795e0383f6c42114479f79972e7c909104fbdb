@@ -1,0 +1,17 @@
+I"<h1 id="projects">Projects</h1>
+
+<hr />
+<h2 id="fussy-millenial">Fussy Millenial</h2>
+
+<p>A recipe search by ingrediet app built on MERN stack using a third-party api provided by <a href="https://spoonacular.com/food-api">spoonacular</a>.</p>
+
+<ul>
+  <li><a href="https://fussymillenial.herokuapp.com">Link</a></li>
+  <li><a href="https://github.com/mxtng/fussy-millenial">Repo</a></li>
+</ul>
+
+<p><img src="/assets/img/fussy-millenial/main.png" alt="main" />
+<img src="/assets/img/fussy-millenial/recipes.png" alt="recipes" /></p>
+
+<hr />
+:ET

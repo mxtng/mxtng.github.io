@@ -5,14 +5,14 @@ layout: default
 # Projects
 
 * * *
-## Fussy Millenial
+## Fussy Millennial
 
-A recipe search by ingrediet app built on MERN stack using a third-party api provided by [spoonacular](https://spoonacular.com/food-api).
+A recipe search by ingredient app built on MERN stack using a third-party api provided by [spoonacular](https://spoonacular.com/food-api).
 
-* [Link](https://fussymillenial.herokuapp.com)
-* [Repo](https://github.com/mxtng/fussy-millenial)
+* [Link](https://fussymillennial.herokuapp.com)
+* [Repo](https://github.com/mxtng/fussy-millennial)
 
-![main](/assets/img/fussy-millenial/main.png)
-![recipes](/assets/img/fussy-millenial/recipes.png)
+![main](/assets/img/fussy-millennial/main.png)
+![recipes](/assets/img/fussy-millennial/recipes.png)
 
 * * *
